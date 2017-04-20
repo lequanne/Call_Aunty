@@ -1,7 +1,7 @@
 # Call_Aunty
 Google BreakInequality Hackathon
 
-</strong>Inspiration<strong>
+<strong>Inspiration</strong>
 
 <p>Pregnant women in rural Bangladesh lack access to the appropriate healthcare services required to have a successful and 
 healthy pregnancy. Without reliable access to well-trained healthcare professionals, women in higher-risk pregnancies can 
