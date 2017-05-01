@@ -1,7 +1,7 @@
 # Call_Aunty
 Google BreakInequality Hackathon
 
-Project code and team <a href="https://devpost.com/software/callaunty">here</a>. 
+Project code and team <a href="https://devpost.com/software/callaunty">here</a>. Languages used were Python, HTML, CSS, and Javascript. We used the Twilio API for SMS communication and a Flask backend for the survey database. 
 
 <strong>Inspiration</strong>
 
